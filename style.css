@@ -1,0 +1,56 @@
+.main{
+	background-color: white;
+}
+.main2{
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtdNOdwrA69E7btEHnDkkD22RHziQBCV1vuLGpRh8xkrg8uJPq");
+    padding: 49px 49px 49px 49px;
+    font-family: 
+
+}
+#form{
+	background-color: lightcyan;
+	width: 40%;
+	float: right;
+
+}
+#head{
+	text-align: center;
+	font-size: 100px;
+	color: black;
+
+
+}
+#marquee{
+	color: red;
+	font-size: 50px;
+}
+.lin{
+	
+	word-spacing: 1cm;
+	
+	background-color: yellow;
+	font-size: 18px;
+}
+a:hover{
+	color: red;
+}
+a:active{
+	color: green;
+}
+.para{
+	width: 60%;
+	float: left;
+	background-color: black;
+	color: white;
+}
+.gallery{
+	text-align: center;
+	width: 40%;
+	float: left;
+	background-color: grey;
+	border: 2px 2px 2px 2px;
+	border-color: black;
+}
+#footer{
+	text-align: center;
+}
